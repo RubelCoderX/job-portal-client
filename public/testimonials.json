@@ -1,0 +1,37 @@
+[
+  {
+    "star": 4,
+    "short_description": "This job portal helped me find my dream job within weeks of signing up. The platform is intuitive, and the support team is fantastic!",
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "image": "https://img.freepik.com/premium-photo/indian-man-with-crossed-arms-wearing-formal-shirt_856987-1136.jpg?w=2000"
+  },
+  {
+    "star": 3,
+    "short_description": "Using this job portal was a game-changer for me. The job matching algorithm is spot-on, and I found multiple relevant opportunities.",
+    "name": "Jane Smith",
+    "title": "Data Analyst",
+    "image": "https://img.freepik.com/premium-psd/charming-handsome-handsome-young-man-casual-wear-keeping-arms-crossed-smiling-while-standing-isolated-transparent-background_410516-169211.jpg?w=2000"
+  },
+  {
+    "star": 4,
+    "short_description": "I highly recommend this job portal to anyone looking to advance their career. The user interface is clean, and I landed my dream job in no time!",
+    "name": "Michael Johnson",
+    "title": "Marketing Manager",
+    "image": "https://img.freepik.com/premium-photo/portrait-handsome-young-man_274222-10546.jpg"
+  },
+  {
+    "star": 3,
+    "short_description": "I've tried several job portals before, but this one stands out. The personalized job recommendations were incredibly helpful, and the process was smooth from start to finish.",
+    "name": "Emily Brown",
+    "title": "HR Specialist",
+    "image": "https://img.freepik.com/premium-photo/portrait-man-looking-away-while-posing_116317-1418.jpg"
+  },
+  {
+    "star": 5,
+    "short_description": "Signing up for this job portal was the best decision I made for my career. The job alerts feature kept me updated with relevant opportunities, and I secured a fantastic job offer!",
+    "name": "David Wilson",
+    "title": "Product Manager",
+    "image": "https://img.freepik.com/premium-psd/man-poses-photo-with-picture-him_176841-44252.jpg"
+  }
+]

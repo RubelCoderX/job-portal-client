@@ -1,0 +1,82 @@
+[
+  {
+    "job_position_name": "Software Engineer",
+    "employment_type": "Full-time",
+    "salary_range": "$80,000 - $100,000",
+    "company_name": "Tech Innovations Inc.",
+    "company_logo": "../src/assets/logo/logo1.jpg",
+    "location": "San Francisco, CA"
+  },
+  {
+    "job_position_name": "Marketing Specialist",
+    "employment_type": "Part-time",
+    "salary_range": "$25 - $30 per hour",
+    "company_name": "Digital Marketing Solutions Ltd.",
+    "company_logo": "https://img.freepik.com/premium-photo/vector-logo-illustration-butterfly-gradient-colorful-style_116762-8748.jpg?w=1800",
+    "location": "New York, NY"
+  },
+  {
+    "job_position_name": "Data Analyst Intern",
+    "employment_type": "Internship",
+    "salary_range": "Unpaid",
+    "company_name": "Data Insights Group",
+    "company_logo": "https://img.freepik.com/premium-photo/icon-three-people_698953-1959.jpg?w=1800",
+    "location": "Chicago, IL"
+  },
+  {
+    "job_position_name": "Graphic Designer",
+    "employment_type": "Full-time",
+    "salary_range": "$50,000 - $60,000",
+    "company_name": "Creative Designs Co.",
+    "company_logo": "https://img.freepik.com/free-photo/25th-years-anniversary-celebration-3d-render_460848-6894.jpg?t=st=1711136317~exp=1711139917~hmac=143395f3b063a515e6fbc869cf2d8c9b2fc7c46cc56d3554d17dd7e259d5741a&w=2000",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "job_position_name": "Customer Support Representative",
+    "employment_type": "Full-time",
+    "salary_range": "$40,000 - $45,000",
+    "company_name": "Supportive Solutions Ltd.",
+    "company_logo": "https://img.freepik.com/premium-photo/letter-c-logo-style-badge-simple-2d-design-illustration-generative-ai_159242-24499.jpg?w=2000",
+    "location": "Seattle, WA"
+  },
+  {
+    "job_position_name": "Financial Analyst",
+    "employment_type": "Part-time",
+    "salary_range": "$35 - $40 per hour",
+    "company_name": "Finance Matters Inc.",
+    "company_logo": "https://img.freepik.com/premium-vector/wrench-iconxa_159242-9555.jpg?w=1800",
+    "location": "Boston, MA"
+  },
+  {
+    "job_position_name": "Human Resources Assistant",
+    "employment_type": "Full-time",
+    "salary_range": "$35,000 - $40,000",
+    "company_name": "HR Solutions Group",
+    "company_logo": "https://img.freepik.com/premium-photo/album-circle-user-icon-diagonal-black-green-red_873925-794211.jpg?w=1800",
+    "location": "Atlanta, GA"
+  },
+  {
+    "job_position_name": "Software Developer Intern",
+    "employment_type": "Internship",
+    "salary_range": "Stipend provided",
+    "company_name": "Innovative Software Solutions",
+    "company_logo": "https://img.freepik.com/premium-photo/black-background-with-colorful-circle-that-says-rainbow_849715-2072.jpg?w=1800",
+    "location": "Austin, TX"
+  },
+  {
+    "job_position_name": "Sales Representative",
+    "employment_type": "Full-time",
+    "salary_range": "$50,000 - $60,000",
+    "company_name": "SalesForce Corp.",
+    "company_logo": "https://img.freepik.com/premium-photo/photo-icons-plate-icon-dark-black-orange-waves-texture_873925-779873.jpg?w=1800",
+    "location": "Denver, CO"
+  },
+  {
+    "job_position_name": "Content Writer",
+    "employment_type": "Part-time",
+    "salary_range": "$20 - $25 per hour",
+    "company_name": "Content Creations Ltd.",
+    "company_logo": "https://img.freepik.com/premium-photo/creative-isolated-professional-company-product-logo-icon_768106-4725.jpg?w=1800",
+    "location": "Miami, FL"
+  }
+]
